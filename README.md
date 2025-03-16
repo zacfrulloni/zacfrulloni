@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zachary Aaron Frulloni!
 
-UK • [Email](mailto:zfrulloni@gmail.com) • [LinkedIn](https://linkedin.com/in/zacfrulloni) • [Medium](https://medium.com/@zacfrull) • [Dev.to](https://dev.to/zacfrulloni)
+UK • [Email](mailto:zfrulloni@gmail.com) • [LinkedIn](https://linkedin.com/in/zacfrulloni) • [Medium](https://medium.com/@zacfrull) • [Dev.to](https://dev.to/zacfrulloni) • [Hire a lovable.dev developer](https://aidevelopers.tech/)
 
 - 🎓 **MSc Computer Science** student at the University of Bath, specializing in Python, AWS, and AI-driven solutions.
 - 🚀 **Junior Software Engineer** at [Brainpool.AI](https://brainpool.ai), focused on prompt engineering and LLMs to improve system responsiveness and user interaction.
